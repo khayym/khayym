@@ -1,4 +1,5 @@
 <h2> Hi, I'm Khayyam Karimov!</h2>
+<p><em>Software Engineer at <a href="https://ecotourizm.com/">Quartz Technologies</a>
 <p><em>Front-End React Developer at <a href="https://ecotourizm.com/">EcoTravel</a>
 
 [![Linkedin: khayyamkarimov](https://img.shields.io/badge/-khayyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/khayyam-karimov-2b1873125/)](https://www.linkedin.com/in/khayyam-karimov-2b1873125/)
